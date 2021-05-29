@@ -30,3 +30,6 @@ Solution - To overcome the above obstacles that hinders in the way of our instit
 •	Online Stationary system portal to avoid irregularity in prices of stationery at institute level.<br>
 
 
+
+
+
