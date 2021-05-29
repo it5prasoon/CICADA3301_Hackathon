@@ -1,6 +1,6 @@
 <?php
-$con=mysqli_connect('localhost','root','');
-$database=@mysqli_select_db($con,'gpmnetwork');
+$con=mysqli_connect('localhost','root','ii-{2hkl!2jH$&|5');
+$database=@mysqli_select_db($con,'id16927902_gpmnetwork');
 if($con && $database)
 {
 }
