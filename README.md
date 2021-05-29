@@ -21,12 +21,12 @@ Solution - To overcome the above obstacles that hinders in the way of our instit
 
 <h2>Features</h2>
 •	Live streaming lecture service for distance learning.<br>
-•	Complete video courses on variety of subjects.<br>
+•	Complete video courses on various important subjects.<br>
 •	Cycle services for a bigger campus with a tracking system.<br>
-•	Online assignment and test system for the ease of students and also for environment conversation.<br>
+•	Online assignment and test system for the ease of students and also for an healthy environment conversation.<br>
 •	Online Counselling for students to overcome depression due to academic stress.<br>
 •	Portal to bring students and teachers with similar field of interest on a single platform using online project section.<br>
 •	Academic Centralization web portal for connecting student to help each other and student-teacher portal for 24x7 doubt solving and research work.<br>
-•	Online Stationary system portal to avoid irregularity in prices of stationery at institute level.<br>
+•	Online Stationary system portal to avoid irregularity in prices of stationary at institute level.<br>
 
 
