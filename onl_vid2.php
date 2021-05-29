@@ -93,7 +93,7 @@
     </div>
       <?php
       $playlistId=$_GET['id'];
-      $api_url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=".$playlistId."&key=AIzaSyA9-ttARHXG6yV6dfgzav51-lcHDtBo1Bo&maxResults=50";
+      $api_url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=".$playlistId."&key=AIzaSyBuXwD3VLLeT3Dae50q9I3mSulyBCU-fwk&maxResults=50";
       $data=json_decode(file_get_contents($api_url));
       ?>
       <script type="javascript">

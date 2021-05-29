@@ -113,7 +113,7 @@
             <div class="box-body">
               <?php
               $channelId="UC640y4UvDAlya_WOj5U4pfA";
-              $access_token="AIzaSyA9-ttARHXG6yV6dfgzav51-lcHDtBo1Bo";
+              $access_token="AIzaSyBuXwD3VLLeT3Dae50q9I3mSulyBCU-fwk";
               $api_url = "https://www.googleapis.com/youtube/v3/playlists?maxResults=50&part=snippet&channelId=".$channelId."&key=".$access_token;
               $data=json_decode(file_get_contents($api_url));
               ?>
