@@ -8,6 +8,18 @@ Problem Statement – Education forms the backbone of any nation. It is a powerf
 Today many of our Educational Institutes face the problems such as inadequate resources to get the quality education, less eco-friendly, improper library facilities, lack of distance education for the remote areas, lack of education for students with special needs and poor counseling for students to handle academic pressure.<br>
 
 Solution - To overcome the above obstacles that hinders in the way of our institutions to adapt to this era of digitization, we have implemented some economical and feasible solutions that will help to provide equal education and more opportunities to upcoming youth. They are as follows:<br>
+
+
+
+
+<h2>APIs and Libraries Used</h2><br>
+<ul>
+<li>Youtube Api (<a href="https://developers.google.com/youtube/v3/quickstart/php"> Link</a>) </li>
+<li> </li>
+</ul>
+
+
+<h2>Features</h2>
 •	Live streaming lecture service for distance learning.<br>
 •	Complete video courses on variety of subjects.<br>
 •	Cycle services for a bigger campus with a tracking system.<br>
@@ -16,20 +28,5 @@ Solution - To overcome the above obstacles that hinders in the way of our instit
 •	Portal to bring students and teachers with similar field of interest on a single platform using online project section.<br>
 •	Academic Centralization web portal for connecting student to help each other and student-teacher portal for 24x7 doubt solving and research work.<br>
 •	Online Stationary system portal to avoid irregularity in prices of stationery at institute level.<br>
-
-
-<h2>API Used</h2><br>
-<ul>
-<li> </li>
-<li> </li>
-</ul>
-
-
-<h2>Features</h2>
- <ul>
-<li> </li>
-<li> </li>
-</ul>
-
 
 
