@@ -9,13 +9,14 @@ Today many of our Educational Institutes face the problems such as inadequate re
 
 Solution - To overcome the above obstacles that hinders in the way of our institutions to adapt to this era of digitization, we have implemented some economical and feasible solutions that will help to provide equal education and more opportunities to upcoming youth. They are as follows:<br>
 
-
+<h2>Video Demo</h2>
+http://e-campus001.000webhostapp.com/login.php
 
 
 <h2>APIs and Libraries Used</h2><br>
 <ul>
 <li>Youtube Api (<a href="https://developers.google.com/youtube/v3/quickstart/php"> Link</a>) </li>
-<li> </li>
+<li>Admin LTE Template </li>
 </ul>
 
 
